@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/seoh1999.dothome.co.kr/build/index.html/static/css/main.e6c13ad2.css",
+    "main.js": "/seoh1999.dothome.co.kr/build/index.html/static/js/main.f98a2a6e.js",
+    "static/js/787.5e676c17.chunk.js": "/seoh1999.dothome.co.kr/build/index.html/static/js/787.5e676c17.chunk.js",
+    "index.html": "/seoh1999.dothome.co.kr/build/index.html/index.html",
+    "main.e6c13ad2.css.map": "/seoh1999.dothome.co.kr/build/index.html/static/css/main.e6c13ad2.css.map",
+    "main.f98a2a6e.js.map": "/seoh1999.dothome.co.kr/build/index.html/static/js/main.f98a2a6e.js.map",
+    "787.5e676c17.chunk.js.map": "/seoh1999.dothome.co.kr/build/index.html/static/js/787.5e676c17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f98a2a6e.js"
+  ]
+}
