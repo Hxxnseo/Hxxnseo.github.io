@@ -346,7 +346,6 @@ p {
   width: 100%;
   overflow: hidden;
   margin-top: 30px;
-  /* slider */
 }
 .wrapper .flexWrapper main .main aside.slide .bx-wrapper {
   position: relative;
@@ -423,20 +422,10 @@ p {
   background-position: -86px -33px;
 }
 .wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-prev {
-  left: 10px;
-  background: url("../../images/icon/controls.png") no-repeat 0 -32px;
   display: none;
-}
-.wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-prev:hover, .wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-prev:focus {
-  background-position: 0 0;
 }
 .wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-next {
-  right: 10px;
-  background: url("../../images/icon/controls.png") no-repeat -43px -32px;
   display: none;
-}
-.wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-next:hover, .wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-next:focus {
-  background-position: -43px 0;
 }
 .wrapper .flexWrapper main .main aside.slide .bx-wrapper .bx-controls-direction a.disabled {
   display: none;
