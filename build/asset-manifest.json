@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45ba1be4.css",
+    "main.js": "/static/js/main.b3c40aeb.js",
+    "static/js/787.fb4f3b49.chunk.js": "/static/js/787.fb4f3b49.chunk.js",
+    "static/media/SF-Pro.woff": "/static/media/SF-Pro.a48fa5c5a8d8b8b79403.woff",
+    "static/media/AppleSDGothicNeoM.woff": "/static/media/AppleSDGothicNeoM.5457fbc675a7450a501b.woff",
+    "index.html": "/index.html",
+    "main.45ba1be4.css.map": "/static/css/main.45ba1be4.css.map",
+    "main.b3c40aeb.js.map": "/static/js/main.b3c40aeb.js.map",
+    "787.fb4f3b49.chunk.js.map": "/static/js/787.fb4f3b49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ba1be4.css",
+    "static/js/main.b3c40aeb.js"
+  ]
+}
